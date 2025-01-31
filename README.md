@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**BIjjay017/BIjjay017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 Currently pursuing Bachelors in Computer Science and Information Technology
 
