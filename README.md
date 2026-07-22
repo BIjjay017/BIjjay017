@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/BIjjay017"><img src="https://img.shields.io/badge/GitHub-BIjjay017-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://bijayshreepali.com.np"><img src="https://img.shields.io/badge/Portfolio-bijayshreepali.com.np-12100E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/BIjjay017" target="_blank"><img src="https://img.shields.io/badge/GitHub-BIjjay017-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://bijayshreepali.com.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bijayshreepali.com.np-12100E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:017bijay@gmail.com"><img src="https://img.shields.io/badge/Email-017bijay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.kaggle.com/bijay017"><img src="https://img.shields.io/badge/Kaggle-bijay017-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://www.kaggle.com/bijay017" target="_blank"><img src="https://img.shields.io/badge/Kaggle-bijay017-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
 ---
@@ -28,28 +28,28 @@ Software Developer at NTCS and CSIT candidate at Tribhuvan University (2021–20
 ## Technical Capabilities
 
 ### Languages & Querying
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
 
 ### Frameworks & Runtime
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+<a href="https://flask.palletsprojects.com" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
 
 ### Data & Persistence Layer
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" /></a>
 
 ### Analytics, AI & Tools
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+<a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Machine Learning" /></a>
+<a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" /></a>
+<a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+<a href="https://github.com/BIjjay017" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.kaggle.com/bijay017" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 
 ---
 
@@ -67,14 +67,20 @@ Software Developer at NTCS and CSIT candidate at Tribhuvan University (2021–20
 ## Repository Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BIjjay017&theme=github_dark" alt="GitHub Profile Details" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BIjjay017&theme=github_dark" alt="Top Languages by Repositories" width="48%" />
+  <a href="https://github.com/BIjjay017" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BIjjay017&theme=github_dark" alt="GitHub Profile Details" width="48%" />
+  </a>
+  <a href="https://github.com/BIjjay017?tab=repositories" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BIjjay017&theme=github_dark" alt="Top Languages by Repositories" width="48%" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BIjjay017&theme=github-compact&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" width="70%" />
+  <a href="https://github.com/BIjjay017" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BIjjay017&theme=github-compact&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" width="70%" />
+  </a>
 </div>
 
 ---
@@ -82,16 +88,16 @@ Software Developer at NTCS and CSIT candidate at Tribhuvan University (2021–20
 ## Contact & Links
 
 <div align="center">
-  <a href="https://bijayshreepali.com.np">
+  <a href="https://bijayshreepali.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Website-bijayshreepali.com.np-12100E?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:017bijay@gmail.com">
     <img src="https://img.shields.io/badge/Email-017bijay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/BIjjay017">
+  <a href="https://github.com/BIjjay017" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-BIjjay017-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.kaggle.com/bijay017">
+  <a href="https://www.kaggle.com/bijay017" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-bijay017-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </div>
