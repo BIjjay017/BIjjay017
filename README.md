@@ -67,8 +67,8 @@ Software Developer at NTCS and CSIT candidate at Tribhuvan University (2021–20
 ## Repository Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BIjjay017&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="GitHub Statistics" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIjjay017&layout=compact&theme=dark&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BIjjay017&theme=github_dark" alt="GitHub Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BIjjay017&theme=github_dark" alt="Top Languages by Repositories" width="48%" />
 </div>
 
 <br />
