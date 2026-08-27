@@ -31,7 +31,6 @@ Full-stack and backend developer focused on practical web applications, AI/ML in
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
 <p>
-  <img src="https://img.shields.io/github/public-repos/BIjjay017?style=flat-square&label=Public%20repos" alt="Public repositories" />
   <img src="https://img.shields.io/github/followers/BIjjay017?style=flat-square&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/BIjjay017?style=flat-square&label=Stars" alt="Stars" />
 </p>
