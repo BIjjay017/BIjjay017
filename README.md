@@ -33,6 +33,11 @@ Full-stack and backend developer in Kathmandu, Nepal. I build web applications, 
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=BIjjay017&show_icons=true&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=2DD4BF&text_color=808080&include_all_commits=true&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIjjay017&layout=compact&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=808080&langs_count=6" height="165" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=BIjjay017&hide_border=true&background=00000000&ring=0EA5E9&fire=2DD4BF&currStreakLabel=0EA5E9&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080" height="160" alt="Contribution streak" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BIjjay017&bg_color=00000000&color=0EA5E9&line=22D3EE&point=2DD4BF&area=true&area_color=22D3EE&hide_border=true&custom_title=Contributions" width="100%" alt="Contribution activity" />
 
 <img src="https://raw.githubusercontent.com/BIjjay017/BIjjay017/output/snake.svg" width="100%" alt="Contribution snake" />
