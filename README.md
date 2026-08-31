@@ -1,40 +1,44 @@
-<h1 align="center">BIJAY SHREEPALI</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=58&lines=Full-Stack+%26+Backend+Engineer;AI%2FML+%26+RAG+Application+Developer;Building+Practical%2C+Impactful+Solutions&fadeIn=true&fadeOut=true&repeat=true" alt="Animated introduction" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=180&section=header&text=Bijay%20Shreepali&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20AI%2FML&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="Bijay Shreepali" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=560&height=40&lines=Building+practical+web+applications;Backend+systems+that+stay+reliable;RAG+%26+LLM+powered+products&fadeIn=true" alt="" />
+
+<br/>
+
+<a href="https://bijayshreepali.com.np"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/BIjjay017"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.kaggle.com/bijay017"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="mailto:017bijay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/BIjjay017" target="_blank"><img src="https://img.shields.io/badge/GitHub-BIjjay017-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://bijayshreepali.com.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bijayshreepali.com.np-12100E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:017bijay@gmail.com"><img src="https://img.shields.io/badge/Email-017bijay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.kaggle.com/bijay017" target="_blank"><img src="https://img.shields.io/badge/Kaggle-bijay017-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-</p>
+<br/>
 
----
+Full-stack and backend developer in Kathmandu, Nepal. I build web applications, AI/ML integrations, and data systems that hold up in production.
 
-## About
+<br/>
 
-Full-stack and backend developer focused on practical web applications, AI/ML integrations, and reliable data systems. Based in Kathmandu, Nepal.
+### Stack
 
-## Skills
+<div align="center">
 
-**Languages:** JavaScript, Python, SQL  
-**Backend:** Node.js, Express, FastAPI, Flask  
-**Frontend:** React  
-**Data & AI:** PostgreSQL, MongoDB, Oracle, Machine Learning, RAG/LLM applications  
-**Tools:** Power BI, Postman, GitHub, Kaggle
+<img src="https://skillicons.dev/icons?i=js,python,nodejs,express,fastapi,flask,react,postgres,mongodb,git&theme=dark" alt="JavaScript, Python, Node.js, Express, FastAPI, Flask, React, PostgreSQL, MongoDB, Git" />
 
-## GitHub
+</div>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
-<p>
-  <img src="https://img.shields.io/github/followers/BIjjay017?style=flat-square&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/BIjjay017?style=flat-square&label=Stars" alt="Stars" />
-</p>
+<br/>
 
-## Links
+### Activity
 
-[Portfolio](https://bijayshreepali.com.np) | [GitHub](https://github.com/BIjjay017) | [Kaggle](https://www.kaggle.com/bijay017) | [Email](mailto:017bijay@gmail.com)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BIjjay017&bg_color=00000000&color=6366F1&line=0EA5E9&point=A855F7&area=true&area_color=6366F1&hide_border=true&custom_title=Contributions" width="100%" alt="Contribution activity" />
+
+<img src="https://raw.githubusercontent.com/BIjjay017/BIjjay017/output/snake.svg" width="100%" alt="Contribution snake" />
+
+</div>
+
+<div align="center">
+<sub><a href="https://bijayshreepali.com.np">bijayshreepali.com.np</a></sub>
+</div>
