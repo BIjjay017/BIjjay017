@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=180&section=header&text=Bijay%20Shreepali&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20AI%2FML&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="Bijay Shreepali" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0EA5E9,100:2DD4BF&height=180&section=header&text=Bijay%20Shreepali&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20AI%2FML&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="Bijay Shreepali" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=560&height=40&lines=Building+practical+web+applications;Backend+systems+that+stay+reliable;RAG+%26+LLM+powered+products&fadeIn=true" alt="" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=560&height=40&lines=Building+practical+web+applications;Backend+systems+that+stay+reliable;RAG+%26+LLM+powered+products&fadeIn=true" alt="" />
 
 <br/>
 
@@ -33,7 +33,7 @@ Full-stack and backend developer in Kathmandu, Nepal. I build web applications, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BIjjay017&bg_color=00000000&color=6366F1&line=0EA5E9&point=A855F7&area=true&area_color=6366F1&hide_border=true&custom_title=Contributions" width="100%" alt="Contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BIjjay017&bg_color=00000000&color=0EA5E9&line=22D3EE&point=2DD4BF&area=true&area_color=22D3EE&hide_border=true&custom_title=Contributions" width="100%" alt="Contribution activity" />
 
 <img src="https://raw.githubusercontent.com/BIjjay017/BIjjay017/output/snake.svg" width="100%" alt="Contribution snake" />
 
